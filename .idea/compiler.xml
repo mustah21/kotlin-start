@@ -6,6 +6,9 @@
       <module name="01.Exercise_1.main" target="21" />
       <module name="01.Exercise_1.test" target="21" />
       <module name="02.Exercise_2" target="21" />
+      <module name="03.Exercise" target="21" />
+      <module name="03.Exercise.main" target="21" />
+      <module name="03.Exercise.test" target="21" />
       <module name="Lesson.main" target="21" />
       <module name="Lesson.test" target="21" />
     </bytecodeTargetLevel>
