@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FractionTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2026-08-30T11:23:08.668Z" hostname="ASUS-MUSTAFA" time="0.039">
+  <properties/>
+  <testcase name="consBasic1()" classname="FractionTest" time="0.017"/>
+  <testcase name="consBasic2()" classname="FractionTest" time="0.001"/>
+  <testcase name="consReduce()" classname="FractionTest" time="0.001"/>
+  <testcase name="compareToEq()" classname="FractionTest" time="0.001"/>
+  <testcase name="compareToGt()" classname="FractionTest" time="0.001"/>
+  <testcase name="compareToLt()" classname="FractionTest" time="0.001"/>
+  <testcase name="add()" classname="FractionTest" time="0.001"/>
+  <testcase name="div()" classname="FractionTest" time="0.001"/>
+  <testcase name="mult()" classname="FractionTest" time="0.001"/>
+  <testcase name="plus()" classname="FractionTest" time="0.0"/>
+  <testcase name="minus()" classname="FractionTest" time="0.001"/>
+  <testcase name="consNeg()" classname="FractionTest" time="0.001"/>
+  <testcase name="consReduceNeg()" classname="FractionTest" time="0.001"/>
+  <testcase name="negate1()" classname="FractionTest" time="0.0"/>
+  <testcase name="negate2()" classname="FractionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
