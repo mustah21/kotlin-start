@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lesson.iml" filepath="$PROJECT_DIR$/Lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.Exercise_1.iml" filepath="$PROJECT_DIR$/01.Exercise_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01.Exercise_1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/01.Exercise_1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01.Exercise_1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/01.Exercise_1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Exercise_2.iml" filepath="$PROJECT_DIR$/02.Exercise_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns-android-development.iml" filepath="$PROJECT_DIR$/.idea/design-patterns-android-development.iml" />

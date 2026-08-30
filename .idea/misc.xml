@@ -7,7 +7,8 @@
     <option name="excludeFilter" value="" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/Lesson" />
+    <file type="web" url="file://$PROJECT_DIR$/01.Exercise_1" />
+    <file type="web" url="file://$PROJECT_DIR$/02.Exercise_2" />
   </component>
   <component name="SuppressionsComponent">
     <option name="suppComments" value="[]" />

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="Lesson:test" external.linked.project.path="$MODULE_DIR$/../../Lesson" external.root.project.path="$MODULE_DIR$/../../Lesson" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="01.Exercise_1:test" external.linked.project.path="$MODULE_DIR$/../../01.Exercise_1" external.root.project.path="$MODULE_DIR$/../../01.Exercise_1" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
-      <configuration version="5" platform="JVM 21" allPlatforms="JVM [21]" useProjectSettings="false" pureKotlinSourceFolders="C:\Metropolia\third-Year\semester-1\design-patterns-android-development\Lesson\src\main\kotlin;C:\Metropolia\third-Year\semester-1\design-patterns-android-development\Lesson\src\test\kotlin">
-        <additionalVisibleModuleNames>Lesson:main</additionalVisibleModuleNames>
+      <configuration version="5" platform="JVM 21" allPlatforms="JVM [21]" useProjectSettings="false" pureKotlinSourceFolders="C:\Metropolia\third-Year\semester-1\design-patterns-android-development\01.Exercise_1\src\test\kotlin;C:\Metropolia\third-Year\semester-1\design-patterns-android-development\01.Exercise_1\src\main\kotlin">
+        <additionalVisibleModuleNames>01.Exercise_1:main</additionalVisibleModuleNames>
         <compilerSettings />
         <compilerArguments>
           <flagArguments>
@@ -12,9 +12,9 @@
             <flagArg name="noStdlib" arg="true" />
           </flagArguments>
           <stringArguments>
-            <stringArg name="destination" arg="$MODULE_DIR$/../../Lesson/build/classes/kotlin/test" />
+            <stringArg name="destination" arg="$MODULE_DIR$/../../01.Exercise_1/build/classes/kotlin/test" />
             <stringArg name="jvmTarget" arg="21" />
-            <stringArg name="moduleName" arg="Lesson_test" />
+            <stringArg name="moduleName" arg="01.Exercise_1_test" />
             <stringArg name="apiVersion" arg="2.2" />
             <stringArg name="languageVersion" arg="2.2" />
           </stringArguments>
@@ -35,15 +35,15 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21">
-    <output-test url="file://$MODULE_DIR$/../../02.Exercise_2/build/classes/kotlin/test" />
+    <output-test url="file://$MODULE_DIR$/../../01.Exercise_1/build/classes/kotlin/test" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../02.Exercise_2/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../02.Exercise_2/src/test/kotlin" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../02.Exercise_2/src/test/resources" type="java-test-resource" />
+    <content url="file://$MODULE_DIR$/../../01.Exercise_1/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../01.Exercise_1/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../01.Exercise_1/src/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="jdk" jdkName="temurin-21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Lesson.main" />
+    <orderEntry type="module" module-name="01.Exercise_1.main" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test:2.2.20" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.2.20" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-test-junit5:2.2.20" level="project" />
@@ -56,5 +56,5 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.10.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.10.1" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Lesson.main" />
+  <component name="TestModuleProperties" production-module="01.Exercise_1.main" />
 </module>
