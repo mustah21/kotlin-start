@@ -35,6 +35,16 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04.MultiThreading" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="temurin-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04.MultiThreading" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/Lesson" />
         <option name="gradleJvm" value="temurin-21" />
         <option name="modules">

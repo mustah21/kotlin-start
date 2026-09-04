@@ -9,9 +9,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/03.Exercise.main.iml" filepath="$PROJECT_DIR$/.idea/modules/03.Exercise.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/03.Exercise.test.iml" filepath="$PROJECT_DIR$/.idea/modules/03.Exercise.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.Observer.iml" filepath="$PROJECT_DIR$/03.Observer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04.Exercise.iml" filepath="$PROJECT_DIR$/04.Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/04.Exercise.main.iml" filepath="$PROJECT_DIR$/.idea/modules/04.Exercise.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/04.Exercise.test.iml" filepath="$PROJECT_DIR$/.idea/modules/04.Exercise.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.MultiThreading.iml" filepath="$PROJECT_DIR$/04.MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/04.MultiThreading.main.iml" filepath="$PROJECT_DIR$/.idea/modules/04.MultiThreading.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/04.MultiThreading.test.iml" filepath="$PROJECT_DIR$/.idea/modules/04.MultiThreading.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns-android-development.iml" filepath="$PROJECT_DIR$/.idea/design-patterns-android-development.iml" />

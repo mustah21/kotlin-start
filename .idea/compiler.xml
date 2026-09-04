@@ -9,9 +9,12 @@
       <module name="03.Exercise.main" target="21" />
       <module name="03.Exercise.test" target="21" />
       <module name="03.Observer" target="21" />
-      <module name="04.Exercise" target="21" />
       <module name="04.Exercise.main" target="21" />
       <module name="04.Exercise.test" target="21" />
+      <module name="04.MultiThreading" target="21" />
+      <module name="04.Multithreading" target="21" />
+      <module name="04.MultiThreading.main" target="21" />
+      <module name="04.MultiThreading.test" target="21" />
       <module name="Lesson.main" target="21" />
       <module name="Lesson.test" target="21" />
     </bytecodeTargetLevel>
