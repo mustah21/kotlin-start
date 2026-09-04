@@ -35,11 +35,11 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21">
-    <output-test url="file://$MODULE_DIR$/../../03.Exercise/build/classes/kotlin/test" />
+    <output-test url="file://$MODULE_DIR$/../../03.Observer/build/classes/kotlin/test" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../03.Exercise/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../03.Exercise/src/test/kotlin" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../03.Exercise/src/test/resources" type="java-test-resource" />
+    <content url="file://$MODULE_DIR$/../../03.Observer/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../03.Observer/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../03.Observer/src/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="jdk" jdkName="temurin-21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

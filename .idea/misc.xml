@@ -7,9 +7,10 @@
     <option name="excludeFilter" value="" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/01.Exercise_1" />
-    <file type="web" url="file://$PROJECT_DIR$/02.Exercise_2" />
-    <file type="web" url="file://$PROJECT_DIR$/03.Exercise" />
+    <file type="web" url="file://$PROJECT_DIR$/01.Inheritance" />
+    <file type="web" url="file://$PROJECT_DIR$/02.Fraction" />
+    <file type="web" url="file://$PROJECT_DIR$/03.Observer" />
+    <file type="web" url="file://$PROJECT_DIR$/04.Exercise" />
   </component>
   <component name="SuppressionsComponent">
     <option name="suppComments" value="[]" />
